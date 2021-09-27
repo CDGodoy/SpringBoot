@@ -1,4 +1,4 @@
-package br.com.godoydev.Exerciciossb.models;
+package br.com.godoydev.Exerciciossb.model.entities;
 
 public class Cliente {
     private int id;
